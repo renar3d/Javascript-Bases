@@ -1,17 +1,17 @@
-# Exercies basiques JavaScript
+# Exercices basiques JavaScript
 
 Ce dépôt contient une collection de petits projets JavaScript qui permettent de manipuler le DOM et d'explorer différentes fonctionnalités de base en JavaScript. Chaque projet est indépendant et se concentre sur une fonctionnalité précise pour mettre en pratique des concepts essentiels du développement web.
 
 ## Table des Matières
 
-1. [Convertisseur de Température](#convertisseur-de-température)
+1. [Convertisseur de Temperature](#convertisseur-de-temperature)
 2. [Convertisseur de Distance](#convertisseur-de-distance)
 3. [Calculatrice de Base](#calculatrice-de-base)
 4. [To-Do List](#to-do-list)
 
 ---
 
-### 1. Convertisseur de Température
+### 1. Convertisseur de Temperature
 
 Ce projet permet de convertir une température donnée entre Celsius et Fahrenheit.
 
@@ -73,4 +73,4 @@ Ce projet est une simple To-Do List interactive qui permet d'ajouter des tâches
 
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone https://github.com/votre-nom-utilisateur/nom-du-repo.git
+   git clone https://github.com/renar3d/Javascript-Bases.git
