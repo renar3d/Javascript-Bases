@@ -4,14 +4,14 @@ Ce dépôt contient une collection de petits projets JavaScript qui permettent d
 
 ## Table des Matières
 
-1. [Convertisseur de Temperature](#convertisseur-de-temperature)
+1. [Convertisseur de Température](#convertisseur-de-temperature)
 2. [Convertisseur de Distance](#convertisseur-de-distance)
 3. [Calculatrice de Base](#calculatrice-de-base)
 4. [To-Do List](#to-do-list)
 
 ---
 
-### 1. Convertisseur de Temperature
+### Convertisseur de Température
 
 Ce projet permet de convertir une température donnée entre Celsius et Fahrenheit.
 
@@ -23,7 +23,7 @@ Ce projet permet de convertir une température donnée entre Celsius et Fahrenhe
 - Conversion Celsius ↔️ Fahrenheit
 - Vérification de saisie valide
 
-### 2. Convertisseur de Distance
+### Convertisseur de Distance
 
 Ce projet permet de convertir une distance donnée entre kilomètres et miles.
 
@@ -35,7 +35,7 @@ Ce projet permet de convertir une distance donnée entre kilomètres et miles.
 - Conversion Km ↔️ Miles
 - Vérification de saisie valide
 
-### 3. Calculatrice de Base
+### Calculatrice de Base
 
 Une calculatrice simple permettant d’effectuer des opérations de base (addition, soustraction, multiplication, division) entre deux nombres.
 
@@ -48,7 +48,7 @@ Une calculatrice simple permettant d’effectuer des opérations de base (additi
 - Affichage de l'historique des calculs
 - Bouton pour effacer les valeurs et l'historique
 
-### 4. To-Do List
+### To-Do List
 
 Ce projet est une simple To-Do List interactive qui permet d'ajouter des tâches, de modifier leur statut, et de les supprimer.
 
